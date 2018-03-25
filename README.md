@@ -1,5 +1,5 @@
 # Flight-Delay-Prediction
-This repository hosts code and files for the project "Flight Delay Prediction". This project was done as part of our course, "Topics in Data Science". Following were the steps involved in the project.
+This repository hosts code and files for the project "Flight Delay Prediction". This project was done as part of our course, "Topics in Data Science". Following were the steps involved in the project:
 
 Steps:
 
