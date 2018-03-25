@@ -11,5 +11,5 @@ Steps:
 6. The model is retrained with the optimal set of hyperparameters.
 7. The performance of the model is measured by plotting the ROC curves and Confusion Matrix with the 30% Testing Data.
 
-The Project report contains the details has been included in the repository.
+The Dataset used and the detailed  project report has been included in the repository.
 
